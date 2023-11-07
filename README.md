@@ -1,6 +1,8 @@
 # credit-card-verifier
 
-Verifies if a given credit card number is Valid or Invalid
+Verifies using [Luhn's Algorithm](https://en.wikipedia.org/wiki/Luhn_algorithm) if a given credit card number is Valid or Invalid.
+
+![image](https://i.stack.imgur.com/Cenb3.png)
 
 ## Examples
 
